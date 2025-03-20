@@ -1,0 +1,49 @@
+# Codaysha - Portfolio
+
+
+## Ndeye Astou Dieng
+- Skills
+- Projects
+- Contact
+Skills
+Projects
+Contact
+
+## About Me
+I'm an IT Management graduate currently pursuing my Master's degree. I have experience helping customers and working with telecom services. I enjoy building websites and learning about new IT tools. Living in București, I'm good at talking with people and making sure they have a great experience using technology. I'm always excited to learn new skills and grow in the tech field.
+Skills
+Projects
+Contact
+
+## Skills
+
+### Programming Languages
+
+### Frameworks & Tools
+
+### Databases
+
+### Office Software
+
+### Customer Relationship Management
+
+### Languages
+
+## Projects
+As a student passionate about web development and IT, I'm in the early stages of my coding journey. My GitHub repository contains my learning projects where I experiment with different technologies and concepts. While these projects are basic and may not be production-ready, they represent my learning process and growing understanding of software development.
+[View My Learning Journey on GitHub](https://github.com/codaysha)
+
+## Contact Me
+
+### Email
+[nastou.dieng@gmail.com](mailto:nastou.dieng@gmail.com)
+
+### Phone
+[+40 750 870 173](tel:+40750870173)
+
+### Location
+București, Romania
+
+### LinkedIn
+[Codaysha](https://www.linkedin.com/in/codaysha)
+© 2024 codaysha. All rights reserved.
