@@ -362,6 +362,23 @@ link[rel="icon"] {
     }
 }
 
+@media (max-width: 768px) {
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .profile-container {
+        margin-bottom: 20px;
+    }
+
+    .hero-content {
+        width: 100%;
+    }
+}
+
 /* Responsive Design */
 @media (min-width: 768px) {
     .skills-container {
